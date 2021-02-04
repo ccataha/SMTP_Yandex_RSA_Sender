@@ -20,3 +20,25 @@ C:\Users\User\Desktop\Mailbox\Mail\Mail\bin\Debug\MimeKit.xml
 C:\Users\User\Desktop\Mailbox\Mail\Mail\bin\Debug\System.Buffers.xml
 C:\Users\User\Desktop\Mailbox\Mail\Mail\obj\Debug\Mail.csproj.CopyComplete
 C:\Users\User\Desktop\Mailbox\Mail\Mail\obj\Debug\Mail.Form2.resources
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\Mail.exe.config
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\Mail.exe
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\Mail.pdb
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\BouncyCastle.Crypto.dll
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\MailKit.dll
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\MimeKit.dll
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\System.Buffers.dll
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\BouncyCastle.Crypto.xml
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\MailKit.pdb
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\MailKit.xml
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\MimeKit.pdb
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\MimeKit.xml
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\bin\Debug\System.Buffers.xml
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\obj\Debug\Mail.Form1.resources
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\obj\Debug\Mail.Form2.resources
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\obj\Debug\Mail.Properties.Resources.resources
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\obj\Debug\Mail.csproj.GenerateResource.cache
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\obj\Debug\Mail.csproj.CopyComplete
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\obj\Debug\Mail.exe
+D:\всякое\4 Курс\2 сем\ТПЗВИ\Полковник\Лаб1\Mailbox\SMTP_Yandex_RSA_Sender\Mail\obj\Debug\Mail.pdb

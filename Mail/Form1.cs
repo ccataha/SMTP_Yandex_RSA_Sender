@@ -28,7 +28,7 @@ namespace Mail
 			MailAddress fromAdress = new MailAddress(textBox1.Text, "A A");
 			MailAddress toAdress = new MailAddress(textBox2.Text, textBox1.Text); //receive
 			MailMessage message = new MailMessage(fromAdress, toAdress);
-			message.Body = textBox16.Text;
+			//message.Body = textBox16.Text;
 			message.Subject = textBox15.Text; //message
 			string password = textBox3.Text;
 			SmtpClient smtpClient = new SmtpClient();
@@ -39,8 +39,16 @@ namespace Mail
 			smtpClient.UseDefaultCredentials = false;
 			smtpClient.Credentials = new NetworkCredential(fromAdress.Address, password); // sender account credentials
 
-
-			smtpClient.Send(message);
+			if (string.IsNullOrEmpty(textBox8.Text))
+			{
+				message.Body = textBox16.Text;
+				smtpClient.Send(message);
+			}
+			else
+			{
+				message.Body = textBox8.Text;
+				smtpClient.Send(message);
+			}
 			ToSent(fromAdress.Address, password, message);
 			MessageBox.Show("Successful sending!", "Success!");
 

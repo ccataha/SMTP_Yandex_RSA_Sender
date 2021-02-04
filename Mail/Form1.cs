@@ -72,8 +72,8 @@ namespace Mail
 			textBox12.Text = rsa.GetPrivateKey();
 			textBox13.Text = rsa.Encrypt();
 			textBox14.Text = rsa.Decrypt();
-			textBox15.Text = textBox15.Text + "ENCRYPTEDw/RSA-----BEGIN PUBLIC KEY-----" + textBox11.Text + "-----END PUBLIC KEY-----";
-			textBox8.Text = textBox13.Text;
+			textBox15.Text = textBox15.Text;
+			textBox8.Text = textBox13.Text + "ENCRYPTEDw/RSA-----BEGIN PUBLIC KEY-----" + textBox11.Text + "-----END PUBLIC KEY-----";
 		}
 
 		private void button3_Click(object sender, EventArgs e)

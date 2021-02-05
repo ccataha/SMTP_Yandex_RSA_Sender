@@ -25,7 +25,7 @@ namespace Mail
 		private void button1_Click(object sender, EventArgs e)
 		{
 
-			MailAddress fromAdress = new MailAddress(textBox1.Text, "A A");
+			MailAddress fromAdress = new MailAddress(textBox1.Text, textBox17.Text);
 			MailAddress toAdress = new MailAddress(textBox2.Text, textBox1.Text); //receive
 			MailMessage message = new MailMessage(fromAdress, toAdress);
 			//message.Body = textBox16.Text;
